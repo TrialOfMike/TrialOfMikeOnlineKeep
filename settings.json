@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "trialbuilding.aternos.me",
+    "ip": "TrialBuilding.aternos.me",
     "port": 61132,
     "version": "",
     "try-creative": false
